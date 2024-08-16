@@ -8,10 +8,12 @@ TrainLeNet.py can be used as an example to run the network on MNIST dataset.
 * Sequential model
 * Layers:
   * Linear (fully connected) layer
-  * ReLU
-  * Tanh
-  * Sigmoid
+  * CNN
+  * RNN
+  * Activations Functions (ReLU, TanH, Sigmoid)
   * Softmax
+  * Pooling
+  * Flatten
   * Dropout
   * Batch Normalization
 * Loss Functions:
